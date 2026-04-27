@@ -1,0 +1,14 @@
+export default function learnpage() {
+    return (
+        <div>
+            <div>
+                <img></img>
+                <p>desaign</p>
+            </div>
+            <div>
+                <h1>figma</h1>
+                <p>8 hours ago</p>
+            </div>
+        </div>
+    );
+}
